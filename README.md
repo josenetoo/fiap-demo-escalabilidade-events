@@ -50,4 +50,6 @@ Live sobre escalabilidade orientada a eventos usando AWS Learner Lab.
 2. Compartilhar `student-handout.md` com alunos
 
 ---
+
 **Última atualização:** 01/10/2025
+
