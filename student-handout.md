@@ -225,8 +225,8 @@ Métricas → EventBridge → Filtros → [Slack, PagerDuty, Email]
 ## 📞 Contato
 
 **Professor:** José Neto  
-**LinkedIn:** [linkedin]  
-**GitHub:** [github]
+**LinkedIn:** https://www.linkedin.com/in/josenetoo/  
+**GitHub:** https://github.com/josenetoo
 
 ---
 
